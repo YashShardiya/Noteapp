@@ -1,0 +1,110 @@
+.top-container{
+    width: 50%;
+    height: 600px;
+}
+
+.top-inner-container{
+    background-color:#F9EBC8;
+    width: 50%;
+    height: auto;
+    margin: 10px auto 10px auto;
+    position: relative;
+    top: 55px;
+    border-radius: 10px;
+}
+
+.heading-container{
+    padding: 20px 10px 10px 10px;
+}
+
+.heading-container h2{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    
+}
+
+.heading-container p{
+    font-size: 15x;
+    font-style: oblique;
+    font-weight: 400;
+}
+
+.form-container{
+    height: 200px;
+    text-align: center;
+}
+
+.form-container form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container form input{
+    width: 75%;
+    height: 45px;
+    text-align: left;
+    align-self: center;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 7px;
+    border: none;
+   
+    
+}
+
+.form-container form button{
+    width: 70px;
+    align-self: center;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ebd464;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    
+}
+
+.form-container form button:hover{
+    background-color: #4b4319;
+}
+
+
+
+
+
+
+
+
+
+
+.main-div-container{
+    display: flex;
+    justify-self: end;
+    height: 600px;
+    position: absolute;
+    right: 0;
+}
+
+.hello{
+    width: 50%;
+    height: 300px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 15px;
+    border: solid 3px #fff0ad;
+}
+
+p{
+    color: black;
+    
+}
+
+h5{
+    color: black;
+}

@@ -1,0 +1,26 @@
+.account-login{
+    position: absolute;
+    top: 155px;
+    right: 10px;
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    
+}
+
+.account-login button{
+    padding: 0;
+    margin: 0;
+    width: 50px;
+    height: 25px;
+    border: none;
+    background: transparent;
+}
+
+
+@media only screen and (max-width: 1000px)  {
+ 
+    .account-login{
+        display: none;
+    }  
+} 

@@ -1,0 +1,73 @@
+.log-out-div{
+    position: absolute;
+    top: 130px;
+    right: 10px;
+}
+
+.note{
+    background-color: #FEFBE7;
+    height: auto;
+    width: 200px;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    margin: 16px;
+    float: left;
+}
+
+.note h1{
+    font-size: 1.1em;
+    margin-bottom: 6px;
+    
+}
+
+.note p{
+    font-size: 0.8em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.note button{
+    
+    background-color: #F9EBC8;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    border: none;
+    outline: none;
+    
+}
+
+.note button:hover{
+    background-color: #4b4319;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1000px)  {
+ 
+    .log-out-div{
+        display: none;
+    }  
+} 

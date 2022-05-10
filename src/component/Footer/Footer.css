@@ -1,0 +1,19 @@
+.footerdiv{
+
+position: fixed;
+bottom: 0;
+height: 40px;
+width: 100%;
+padding-bottom: 5px;
+padding-top: 5px;
+background-color:#FEFBE7;
+border-top: solid #E0D8B0 1px;
+text-align: center;
+
+}
+
+p{
+   font-weight: lighter; 
+   
+}
+
